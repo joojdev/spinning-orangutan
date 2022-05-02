@@ -1,0 +1,14 @@
+.image {
+  width: 60vw;
+  max-width: 400px;
+  animation: rotation 2s infinite linear;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
