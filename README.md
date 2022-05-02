@@ -1,2 +1,3 @@
-# spinning-orangutan
+# Spinning Orangutan
+
 Yes.
