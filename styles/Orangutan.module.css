@@ -2,6 +2,7 @@
   width: 60vw;
   max-width: 400px;
   animation: rotation 2s infinite linear;
+  cursor: pointer;
 }
 
 @keyframes rotation {
